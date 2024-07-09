@@ -8,3 +8,8 @@ d= False/ True  # d is a boolean variable
 
 e= None # e is a none type variable 
 
+# operators in python 
+#  arithmetic operators = +,- * / etc 
+# assignment operators = =,+=,-=,etc
+# comparison operators = ==,!=,>,<,>=,<=
+# logical operators: and ,or  not .
