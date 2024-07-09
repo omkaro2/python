@@ -2,7 +2,7 @@ a=2 # a is an integer
 
 b=2.0 # b is a float    
 
-c="omkar" # c is string 
+c="name is string " # c is string 
 
 d= False/ True  # d is a boolean variable 
 
